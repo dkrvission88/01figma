@@ -1,0 +1,168 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.resourcem {
+  margin: 40px;
+  overflow-y: hidden;
+}
+
+h1 {
+  margin: 10px 14px;
+}
+
+.emp {
+  margin: 10px 14px;
+}
+
+.emp input {
+  width: 100%;
+  height: 30px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+
+.first {
+  display: flex;
+  gap: 40px;
+  margin: 10px 14px;
+}
+.first .empEmail {
+  width: 50%;
+}
+
+.first .empEmail input {
+  width: 100%;
+  height: 30px;
+}
+.first .empId {
+  width: 50%;
+}
+.first .empId input {
+  width: 100%;
+  height: 30px;
+}
+.second {
+  display: flex;
+  gap: 40px;
+  margin: 10px 14px;
+}
+
+.second .empPosition input {
+  width: 100%;
+  height: 30px;
+}
+.second .empPosition {
+  width: 50%;
+}
+.second .empJoin input {
+  width: 100%;
+  height: 30px;
+}
+.second .empJoin {
+  width: 50%;
+}
+.empSkill {
+  margin: 10px 14px;
+}
+.empSkill input {
+  width: 100%;
+  height: 30px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+
+.third {
+  display: flex;
+  gap: 40px;
+  margin: 10px 14px;
+}
+.third .empSalary {
+  width: 33.3%;
+}
+
+.third .empSalary input {
+  width: 100%;
+  height: 30px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+.third .empRating {
+  width: 33.3%;
+}
+.third .empRating input {
+  width: 100%;
+  height: 30px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+.third .empDevice {
+  width: 33.3%;
+}
+.third .empDevice input {
+  width: 100%;
+  height: 30px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+
+.remsrks {
+  margin: 10px 14px;
+}
+.remsrks textarea {
+  width: 100%;
+  height: 70px;
+  top: 60px;
+  left: 9px;
+  margin-top: 10px;
+}
+
+.empSkill input {
+  width: 100%;
+}
+.third {
+  display: flex;
+}
+.btn {
+  display: flex;
+  align-items: right;
+}
+
+.btn .submitBtn {
+  margin: 10px 14px;
+  display: flex;
+   justify-content: flex-end;
+  align-items: right;
+  justify-content: center;
+  margin-top: 10;
+  border-radius: 20px 20px 20px 20px;
+  padding: 10px 20px;
+  width: 15%;
+  background-color: green;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.btn{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+/* .submitBtn {
+    background-color: #04AA6D; /* Green */
+/* border: none;
+    color: white;
+    padding: 15px 58px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30%;
+  } */
